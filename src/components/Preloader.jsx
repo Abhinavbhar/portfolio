@@ -35,7 +35,7 @@ function IntroAnimation() {
         <h1 className={`text-4xl font-bold ${showWords.first ? 'block' : 'hidden'}`}>Abhinav bhar</h1>
         <h1 className={`text-4xl font-bold ${showWords.second ? 'block' : 'hidden'}`}>
           अभिनव भड</h1>
-        <h1 className={`text-4xl font-bold ${showWords.third ? 'block' : 'hidden'}`}>Абхинав бхад</h1>
+        <h1 className={`text-4xl font-bold ${showWords.third ? 'block' : 'hidden'}`}>bhar</h1>
       </div>
     </div>
   );
